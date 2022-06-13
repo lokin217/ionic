@@ -1,2 +1,2 @@
 # mobile-app
-distance finding app between many points
+distance finding app between several points
